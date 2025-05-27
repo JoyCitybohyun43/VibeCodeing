@@ -13,4 +13,3 @@ REM 푸시
 git push origin main
 
 echo Auto sync complete.
-pause
